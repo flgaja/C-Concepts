@@ -1,1 +1,1 @@
-This Repository is mainly used for samples of C# Concepts.
+This Repository contains sample codes explaining C# concepts
